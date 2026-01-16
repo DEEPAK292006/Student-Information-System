@@ -1,1 +1,15 @@
+# User Documentation
+
+## Usage Instructions
+1. Run the application
+2. Choose options from the menu
+3. Enter student details as prompted
+4. Use search and update options to manage records
+
+## Menu Options
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Exit
 
