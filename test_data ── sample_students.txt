@@ -1,0 +1,3 @@
+101, Deepak, Computer Science, 2
+102, Arun, Information Technology, 3
+103, Priya, Electronics, 1
